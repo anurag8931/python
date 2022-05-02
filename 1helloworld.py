@@ -1,0 +1,1 @@
+print("Hello World, this is first step in learning python");
